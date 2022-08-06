@@ -11,7 +11,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <version.drools>8.26.0-SNAPSHOT</version.drools>
+    <version.drools>8.25.0.Beta</version.drools>
     <version.slf4j>1.7.30</version.slf4j>
     <version.junit>4.13.1</version.junit>
     <version.logback>1.2.9</version.logback>
