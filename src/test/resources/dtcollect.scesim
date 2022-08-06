@@ -51,7 +51,7 @@
           <factAlias>a</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>304.66666666666663</columnWidth>
+          <columnWidth>234</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
         </FactMapping>
         <FactMapping>
@@ -72,7 +72,7 @@
           <factAlias>b</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>304.66666666666663</columnWidth>
+          <columnWidth>234</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
         </FactMapping>
         <FactMapping>
@@ -95,7 +95,7 @@
           <genericTypes>
             <string>tCustomerList</string>
           </genericTypes>
-          <columnWidth>304.66666666666663</columnWidth>
+          <columnWidth>234</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
         </FactMapping>
       </factMappings>
@@ -145,7 +145,7 @@
               <name>1|3</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">[{"name":"a true", "notes":"observing a true"},{"name":"b true", "notes":"observing b true"},{"name":"true", "notes":"observing true"}]</rawValue>
+            <rawValue class="string">[{"name":"\"a true\"", "notes":"\"observing a true\""},{"name":"\"b true\"", "notes":"\"observing b true\""},{"name":"\"true\"", "notes":"\"observing true\""}]</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
